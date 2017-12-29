@@ -14,6 +14,9 @@ public class Test {
 		BeanUtils.copyProperties(map, map1);
 		System.out.println(map1.get("key"));
 		System.out.println("hello world");
+		System.out.println("hello world");
+		System.out.println("hello world");
+		System.out.println("hello world");
 		
 	}
 }
